@@ -1,0 +1,12 @@
+---
+name: "kotlin-coroutine"
+metadata:
+  keywords:
+    - "kotlin"
+    - "native image"
+    - "graal vm"
+    - "coroutine"
+  guide: "https://quarkus.io/guides/kotlin"
+  categories:
+    - "alt-languages"
+  status: "preview"
