@@ -7,10 +7,11 @@
     <parent>
         <groupId>com.github.tokuramakura</groupId>
         <artifactId>quarkus-kotlin-coroutine-parent</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>master-SNAPSHOT</version>
         <relativePath>../</relativePath>
     </parent>
 
+    <groupId>com.github.tokuramakura.quarkus-kotlin-coroutine</groupId>
     <artifactId>quarkus-kotlin-coroutine</artifactId>
     <name>Quarkus - Kotlin Coroutine - Runtime</name>
     <description>Write your services in Kotlin</description>

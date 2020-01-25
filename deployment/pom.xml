@@ -6,12 +6,13 @@
     <parent>
         <groupId>com.github.tokuramakura</groupId>
         <artifactId>quarkus-kotlin-coroutine-parent</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>master-SNAPSHOT</version>
         <relativePath>../</relativePath>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.github.tokuramakura.quarkus-kotlin-coroutine</groupId>
     <artifactId>quarkus-kotlin-coroutine-deployment</artifactId>
     <name>Quarkus Kotlin Coroutine Extension - Deployment</name>
 
