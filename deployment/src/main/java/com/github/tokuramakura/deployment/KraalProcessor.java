@@ -51,7 +51,7 @@ public class KraalProcessor {
                     }
                 }
             }
-        } catch (IOException | NullPointerException e) {
+        } catch (IOException | UncheckedIOException | NullPointerException e) {
 
         }
         return new NativeImageSystemPropertyBuildItem("kraal.enabled", "true");
